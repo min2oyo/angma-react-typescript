@@ -7,7 +7,7 @@ const B = () => {
   }
 
   showItems([1, 2, 3]);
-  showItems(1, 2, 3);
+  // showItems(1, 2, 3);
 
   return (
     <></>

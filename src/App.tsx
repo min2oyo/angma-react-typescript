@@ -1,12 +1,10 @@
 import './App.css';
-import A from './component/A';
-import B from './component/B';
+import UtilityTypesRecord from './component/UtilityTypesRecord';
 
 function App() {
   return (
     <>
-      <A />
-      <B />
+      <UtilityTypesRecord />
     </>
   );
 }
